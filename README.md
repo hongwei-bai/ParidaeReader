@@ -7,4 +7,4 @@ In the future, I am going to make this folder configurable.
 
 The screen capture is as shown below:
 
-![](https://github.com/hongweibai/LOFC2FlightPanel/blob/master/image/demo.jpg)
+![](https://github.com/hongweibai/ParidaeReader/blob/master/image/demo.jpg)
