@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Paridae Reader</string>
+    <string name="scan">Scan</string>
+    <string name="read">Read</string>
+
+</resources>
